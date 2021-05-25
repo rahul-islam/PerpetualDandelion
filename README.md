@@ -10,11 +10,13 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-python main.py
+python play.py
 ```
 Note: conda environment need to be activate before you execute this command
 
 ### macOS
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew install --cask cmake
 brew install boost
+```
