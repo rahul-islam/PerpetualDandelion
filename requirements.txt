@@ -1,0 +1,7 @@
+opencv-python-headless
+pygame
+imutils==0.5.3
+scipy
+numpy
+lightgbm
+dlib==19.21.0
