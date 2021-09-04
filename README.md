@@ -14,6 +14,13 @@ python play.py
 ```
 Note: conda environment need to be activate before you execute this command
 
+## Data Collection
+Got alalysis folder
+Collect Data: analysis/collect.py
+Data Extraction:
+analysis/Tain.ipynb
+analysis/Blow Model.ipynb
+
 ### macOS
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
